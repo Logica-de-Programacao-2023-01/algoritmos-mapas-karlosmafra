@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94e18006-f1e3-4bb1-8b69-03decdf41914" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map06.go" beforeDir="false" afterPath="$PROJECT_DIR$/map06.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/algoritmos-mapas-karlosmafra",
+    "last_opened_file_path": "C:/Users/kadum_fr7o51t/OneDrive/Documentos/estudo/repositorios/jogo-da-advinhacao-maria-elis",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)"
   }
